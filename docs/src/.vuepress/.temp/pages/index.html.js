@@ -9,12 +9,12 @@ export const data = {
     "tagline": "Risorse ed esercizi per diventare un programmatore migliore",
     "actions": [
       {
-        "text": "Foundational Path →",
+        "text": "Foundational Path",
         "link": "/foundational/",
         "type": "secondary"
       },
       {
-        "text": "Pragmatic Path →",
+        "text": "Pragmatic Path",
         "link": "/pragmatic/",
         "type": "secondary"
       }
