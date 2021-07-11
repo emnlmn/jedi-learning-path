@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-    title: 'Percorso del programmatore',
+    title: 'Programmer\'s path',
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#description
      */

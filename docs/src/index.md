@@ -3,12 +3,12 @@ home: true
 heroImage: /images/logo.png
 tagline: Risorse ed esercizi per diventare un programmatore migliore
 actions:
-  - text: "Foundational Path"
+  - text: "Foundational"
     link: /foundational/
-    type: secondary
-  - text: "Pragmatic Path"
+    type: primary
+  - text: "Pragmatic"
     link: /pragmatic/
-    type: secondary
+    type: primary
 features:
   - title: Coach personale
     details: Sarò al tuo fianco per aiutarti nel tuo percorso, con coaching teoriche, sessioni in pair programming e supporto asincrono.
