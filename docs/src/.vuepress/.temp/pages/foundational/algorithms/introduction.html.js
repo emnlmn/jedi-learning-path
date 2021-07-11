@@ -8,7 +8,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "foundational/algorithms/introduction.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1626029095000,
+    "contributors": [
+      {
+        "name": "Emanuele Menon",
+        "email": "emanuele.menon@facile.it",
+        "commits": 1
+      }
+    ]
   }
 }
