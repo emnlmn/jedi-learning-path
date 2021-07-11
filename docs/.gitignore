@@ -7,5 +7,6 @@ dist
 .basement
 .vuepress/.cache
 .vuepress/.temp
+.vuepress/dist
 basement_dist
 yarn-error.log
