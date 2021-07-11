@@ -14,6 +14,7 @@
 
 ## Distributed Systems
 - https://www.craftedsoftware.org/mastering-distributed-systems-with-mauro-servienti/
+- https://www.youtube.com/watch?v=0UTOLRTwOX0
 
 ## CQRS
 - https://verraes.net/2014/05/functional-foundation-for-cqrs-event-sourcing/
