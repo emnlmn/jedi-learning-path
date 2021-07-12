@@ -43,7 +43,7 @@ module.exports = {
         sidebar: {
             '/foundational/data-structures/': [
                 {
-                    text: 'Data Structured',
+                    text: 'Data Structures',
                     children: [
                         '/foundational/data-structures/introduction.md',
                     ],
@@ -55,6 +55,14 @@ module.exports = {
                     children: [
                         '/foundational/functional-programming/what-is-functional-programming.md',
                         '/foundational/functional-programming/functional-programming-in-typescript.md'
+                    ],
+                },
+            ],
+            '/foundational/version-control-system/': [
+                {
+                    text: 'Version control system',
+                    children: [
+                        '/foundational/version-control-system/what-is-a-vcs.md',
                     ],
                 },
             ],
