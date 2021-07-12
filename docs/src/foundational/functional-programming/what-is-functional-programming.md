@@ -1,4 +1,4 @@
-# Cos'è la programmazione funzionale
+# Cos'è la programmazione funzionale <Badge type="warning" text="WIP" vertical="middle" />
 
 Se hai già sentito parlare di **programmazione funzionale** avrai probabilmente anche potuto constatare come questo argomento sia
 particolarmente caldo e dibattuto.
