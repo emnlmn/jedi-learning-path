@@ -34,14 +34,14 @@ I dati entrano dall'alto ed attraversando una ad una le funzioni che compongono 
 Questo concetto è conosciuto come **pipe**.
 
 ::: code-group
-::: code-group-item pseudocodice
+::: code-group-item javascript
 
 ```js
-programma = pipe(
+const program = pipe(
   input,
-  funzione1,
-  funzione2,
-  funzione3,
+  function1,
+  function2,
+  function3,
   ...
 )
 ```
