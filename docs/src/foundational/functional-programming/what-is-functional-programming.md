@@ -1,19 +1,21 @@
 # Cos'è la programmazione funzionale <Badge type="warning" text="WIP" vertical="middle" />
 
 Se hai già sentito parlare di **programmazione funzionale** avrai probabilmente anche potuto constatare come questo argomento sia
-particolarmente caldo e dibattuto.
+particolarmente dibattuto.
 
-Se non sei un'esperto del tema e tutto ciò che lo riguarda ti suona come complesso, a tratti mistico o futuristico, nessun problema, sei in buona compagnia. All'atto pratico però, programmare in funzionale è molto più semplice di quello che può sembrare.
+Per chi si avvicina per la prima volta a questo mondo, potrebbe inizialmente sembrare comlesso, a tratti mistico. E' capitato anche a me, ma tranquillo: all'atto pratico, programmare in funzionale è molto più semplice di quello che può sembrare inizialmente.
 
-La **programmazione funzionale** altro non è che un modo di scrivere il codice. Un modo di scrivere codice, in gergo, viene chiamato **paradigma**. Altri tipi di paradigmi in cui puoi esserti imbattuto nella tua carriera sono ad esempio il _paradigma imperativo_ o la più famosa _programmazione ad oggetti_. Esistono molti altri paradigmi, ognuno con le proprie peculiarità e campi di applicazione. [Mappa dei paradigmi di programmazione](https://upload.wikimedia.org/wikipedia/commons/f/f7/Programming_paradigms.svg)
+La **programmazione funzionale** altro non è che un modo di scrivere il codice. Un modo di scrivere codice, in gergo, viene chiamato **paradigma**. Altri tipi di paradigmi in cui puoi esserti imbattuto nella tua carriera sono ad esempio il _paradigma imperativo_ o la più famosa _programmazione ad oggetti_. Esistono molti altri paradigmi, ognuno con le proprie peculiarità e campi di applicazione.
+
+Sia chiaro, non si tratta di un nuovo ed avenieristico metodo, la **programmazione funzionale** infatti affonda le sue radici negli anni cinquanta, se non acor prima. Il primo vero linguaggio che introduceva concetti funzionali che si possono ritrovare in linguaggi più moderni è il [Lisp](https://lisp-lang.org/).
 
 ## Principi della programmazione funzionale
 
-La caratteristica distintiva del _paradigma funzionale_ è quella di dover programmare utilizzando solo **funzioni pure**, prive di **side effects**.
+La caratteristica distintiva del **paradigma funzionale** è quella di dover programmare utilizzando solo **funzioni pure**, prive dunque di **side effects**.
 
 ### Che cos'è un side effects?
 
-Possiamo semplificare dicendo che, una funzione che ha un _side effect_, è una funzione che oltre a ritornare un valore, esegue una qualsiasi altra operazione.
+Possiamo semplificare dicendo che, una funzione che ha un **side effect**, è una funzione che oltre a ritornare un valore, esegue una qualsiasi altra operazione.
 
 Alcuni esempi di _side effect_ sono:
 
@@ -47,3 +49,9 @@ const program = pipe(
 ```
 
 :::
+
+## Risorse e approfondimenti
+
+[Overview dei paradigmi di programmazione](https://upload.wikimedia.org/wikipedia/commons/f/f7/Programming_paradigms.svg)
+
+[Introduzione alla programmazione funzionale - Giulio Canti](https://github.com/gcanti/functional-programming)
