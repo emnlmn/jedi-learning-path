@@ -1,4 +1,4 @@
 {
-  "root": "docs/src/.vuepress/dist",
+  "root": "./docs/.vuepress/dist",
   "basic_auth": true
 }
