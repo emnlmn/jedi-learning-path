@@ -54,7 +54,11 @@ module.exports = {
                     text: 'Functional Programming',
                     children: [
                         '/foundational/functional-programming/what-is-functional-programming.md',
-                        '/foundational/functional-programming/functional-programming-in-typescript.md'
+                        '/foundational/functional-programming/first-class-citzen-function.md',
+                        '/foundational/functional-programming/immutability.md',
+                        '/foundational/functional-programming/handling-side-effects.md',
+                        '/foundational/functional-programming/functional-programming-in-typescript.md',
+                        '/foundational/functional-programming/resources.md',
                     ],
                 },
             ],
