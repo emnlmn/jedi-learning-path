@@ -9,7 +9,7 @@
   },
   "repository": "git@github.com:emnlmn/jedi-learning-path.git/jedi-learning-path",
   "scripts": {
-    "dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "license": "MIT",
