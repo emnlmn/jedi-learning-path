@@ -7,7 +7,12 @@ Per chi si avvicina per la prima volta a questo mondo, potrebbe inizialmente sem
 
 La **programmazione funzionale** altro non è che un modo di scrivere il codice. Un modo di scrivere codice, in gergo, viene chiamato **paradigma**. Altri tipi di paradigmi in cui puoi esserti imbattuto nella tua carriera sono ad esempio il _paradigma imperativo_ o la più famosa _programmazione ad oggetti_. Esistono molti altri paradigmi, ognuno con le proprie peculiarità e campi di applicazione.
 
-Sia chiaro, non si tratta di un nuovo ed avenieristico metodo, la **programmazione funzionale** infatti affonda le sue radici negli anni cinquanta, se non acor prima. Il primo vero linguaggio che introduceva concetti funzionali che si possono ritrovare in linguaggi più moderni è il [Lisp](https://lisp-lang.org/).
+Possiamo dire che un **paradigma** altro non è che un'insieme di **regole** e **vincoli** che il nostro codice deve rispettare.
+Non sempre queste regole sono dettate da limiti o caratteristihce delle tecnologie che usiamo, ma anzi, spesso sono definiti da noi stessi programmatori (o chi ha "inventato" il paradigma).
+
+L'obbiettivo di queste regole è quello di **rendere il codice** che scriviamo **semplice da capire**.
+
+Sia chiaro dunque, non si tratta di un nuovo ed avenieristico metodo, la **programmazione funzionale** infatti affonda le sue radici negli anni cinquanta, se non acor prima. Il primo vero linguaggio che introduceva concetti funzionali che si possono ritrovare in linguaggi più moderni è il [Lisp](https://lisp-lang.org/).
 
 ## Principi della programmazione funzionale
 
