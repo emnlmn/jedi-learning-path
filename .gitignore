@@ -1,9 +1,4 @@
-pids
-logs
 node_modules
-.DS_Store
-.nyc_output
-.basement
-.cache
-.temp
-yarn-error.log
+.vuepress/.cache
+.vuepress/.temp
+.vuepress/dist
