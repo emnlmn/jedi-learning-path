@@ -5,3 +5,4 @@
 [Introduzione alla programmazione funzionale - Giulio Canti](https://github.com/gcanti/functional-programming)
 
 [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
+
