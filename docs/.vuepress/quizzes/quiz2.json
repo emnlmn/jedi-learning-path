@@ -1,0 +1,23 @@
+{
+    "user": "Dave",
+    "questions": [
+       {
+          "text": "Cos'è la programmazione funzionale",
+          "responses": [
+             {
+                "text": "Scrivere un'applicazione usando codice procedurale"
+             },
+             {
+                "text": "Un linguaggio di programmazione"
+             },
+             {
+                "text": "Un insieme di 'vincoli' per scrivere codice migliore",
+                "correct": true
+             },
+             {
+                "text": "Nessuna delle risposte precedenti"
+             }
+          ]
+       }
+    ]
+  }

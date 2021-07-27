@@ -9,4 +9,5 @@ Ecco i percorsi che puoi intraprendere:
 - [Strutture dati](/foundational/data-structures/introduction.md)
 - [Algoritmi](/foundational/algorithms/introduction.md)
 - [Programmazione funzionale](/foundational/functional-programming/what-is-functional-programming.md)
-- [Sistema di controllo della versione](/foundational/version-control-system/what-is-a-vcs.md)
+- Metodologia
+- Design patterns

@@ -1,11 +1,8 @@
-const { description } = require('../../package')
+import { path } from '@vuepress/utils'
+import { DefaultThemeOptions, defineUserConfig } from 'vuepress'
 
-module.exports = {
+export default defineUserConfig<DefaultThemeOptions>({
     title: 'Programmer\'s path',
-    /**
-     * Ref：https://v1.vuepress.vuejs.org/config/#description
-     */
-    description: description,
 
     /**
      * Extra tags to be injected to the page HTML `<head>`
@@ -59,6 +56,7 @@ module.exports = {
                         '/foundational/functional-programming/handling-side-effects.md',
                         '/foundational/functional-programming/functional-programming-in-typescript.md',
                         '/foundational/functional-programming/resources.md',
+                        '/foundational/functional-programming/quiz.md',
                     ],
                 },
             ],
@@ -74,12 +72,13 @@ module.exports = {
         sidebarDepth: 3
     },
 
-    /**
-     * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
-     */
     plugins: [
-        '@vuepress/plugin-back-to-top',
-        '@vuepress/plugin-medium-zoom',
+        [
+            '@vuepress/plugin-register-components',
+            {
+                componentsDir: path.resolve(__dirname, './components'),
+            },
+        ],
         [
             '@vuepress/plugin-search',
             {
@@ -92,4 +91,4 @@ module.exports = {
             },
         ],
     ]
-}
+})
