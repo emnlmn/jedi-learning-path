@@ -8,6 +8,6 @@ Ecco i percorsi che puoi intraprendere:
 
 - [Strutture dati](/foundational/data-structures/introduction.md)
 - [Algoritmi](/foundational/algorithms/introduction.md)
+- [Programmazione ad oggetti](/foundational/object-oriented-programming/object-oriented-programming-pillars.md)
 - [Programmazione funzionale](/foundational/functional-programming/what-is-functional-programming.md)
-- Metodologia
 - Design patterns

@@ -46,6 +46,14 @@ export default defineUserConfig<DefaultThemeOptions>({
                     ],
                 },
             ],
+            '/foundational/object-oriented-programming/': [
+                {
+                    text: 'Object-Oriented Programming',
+                    children: [
+                        '/foundational/object-oriented-programming/object-oriented-programming-pillars.md',
+                    ],
+                },
+            ],
             '/foundational/functional-programming/': [
                 {
                     text: 'Functional Programming',

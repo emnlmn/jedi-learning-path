@@ -17,7 +17,7 @@
               width: (questionIndex / quiz.questions.length) * 100 + '%',
             }"
           >
-            <span>{{ (questionIndex / quiz.questions.length) * 100 }}%</span>
+            <span>{{ (questionIndex / quiz.questions.length).toFixed(2) * 100 }}%</span>
           </div>
         </div>
       </header>

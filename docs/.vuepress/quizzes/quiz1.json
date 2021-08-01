@@ -1,185 +1,128 @@
 {
-    "user": "Dave",
-    "questions": [
-       {
-          "text": "What is the full form of HTTP?",
-          "responses": [
-             {
-                "text": "Hyper text transfer package"
-             },
-             {
-                "text": "Hyper text transfer protocol",
-                "correct": true
-             },
-             {
-                "text": "Hyphenation text test program"
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       },
-       {
-          "text": "HTML document start and end with which tag pairs?",
-          "responses": [
-             {
-                "text": "HTML",
-                "correct": true
-             },
-             {
-                "text": "WEB"
-             },
-             {
-                "text": "HEAD"
-             },
-             {
-                "text": "BODY"
-             }
-          ]
-       },
-       {
-          "text": "Which tag is used to create body text in HTML?",
-          "responses": [
-             {
-                "text": "HEAD"
-             },
-             {
-                "text": "BODY",
-                "correct": true
-             },
-             {
-                "text": "TITLE"
-             },
-             {
-                "text": "TEXT"
-             }
-          ]
-       },
-       {
-          "text": "Outlook Express is _________",
-          "responses": [
-             {
-                "text": "E-Mail Client",
-                "correct": true
-             },
-             {
-                "text": "Browser"
-             },
-             {
-                "text": "Search Engine"
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       },
-       {
-          "text": "What is a search engine?",
-          "responses": [
-             {
-                "text": "A hardware component "
-             },
-             {
-                "text": "A machinery engine that search data"
-             },
-             {
-                "text": "A web site that searches anything",
-                "correct": true
-             },
-             {
-                "text": "A program that searches engines"
-             }
-          ]
-       },
-       {
-          "text": "What does the .com domain represents?",
-          "responses": [
-             {
-                "text": "Network"
-             },
-             {
-                "text": "Education"
-             },
-             {
-                "text": "Commercial",
-                "correct": true
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       },
-       {
-          "text": "In Satellite based communication, VSAT stands for? ",
-          "responses": [
-             {
-                "text": " Very Small Aperture Terminal",
-                "correct": true
-             },
-             {
-                "text": "Varying Size Aperture Terminal "
-             },
-             {
-                "text": "Very Small Analog Terminal"
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       },
-       {
-          "text": "What is the full form of TCP/IP? ",
-          "responses": [
-             {
-                "text": "Telephone call protocol / international protocol"
-             },
-             {
-                "text": "Transmission control protocol / internet protocol",
-                "correct": true
-             },
-             {
-                "text": "Transport control protocol / internet protocol "
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       },
-       {
-          "text": "What is the full form of HTML?",
-          "responses": [
-             {
-                "text": "Hyper text marking language"
-             },
-             {
-                "text": "Hyphenation text markup language "
-             },
-             {
-                "text": "Hyper text markup language",
-                "correct": true
-             },
-             {
-                "text": "Hyphenation test marking language"
-             }
-          ]
-       },
-       {
-          "text": "\"Yahoo\", \"Infoseek\" and \"Lycos\" are _________?",
-          "responses": [
-             {
-                "text": "Browsers "
-             },
-             {
-                "text": "Search Engines",
-                "correct": true
-             },
-             {
-                "text": "News Group"
-             },
-             {
-                "text": "None of the above"
-             }
-          ]
-       }
-    ]
-  }
+   "user": "Dave",
+   "questions": [
+      {
+         "text": "A class is a data type.",
+         "responses": [
+            {
+               "text": "True",
+               "correct": true
+            },
+            {
+               "text": "False"
+            }
+         ]
+      },
+      {
+         "text": "An object is a(n) ________ of a class.",
+         "responses": [
+            {
+               "text": "Parent"
+            },
+            {
+               "text": "Copy"
+            },
+            {
+               "text": "Instance",
+               "correct": true
+            }
+         ]
+      },
+      {
+         "text": "Encapsulation is the concept of “hiding” the data in an object so it is not directly accessible from another object.",
+         "responses": [
+            {
+               "text": "False"
+            },
+            {
+               "text": "True",
+               "correct": true
+            }
+         ]
+      },
+      {
+         "text": "Which of the following sentence about Encapsulation is wrong?",
+         "responses": [
+            {
+               "text": "Ensures that an object can never have bad values",
+               "correct": true
+            },
+            {
+               "text": "Protects client code from changes to the object’s implementation"
+            },
+            {
+               "text": "Protects an object’s internal state from being corrupted by its clients"
+            }
+         ]
+      },
+      {
+         "text": "The communication and interaction between objects is accomplished through messages.",
+         "responses": [
+            {
+               "text": "False"
+            },
+            {
+               "text": "True",
+               "correct": true
+            }
+         ]
+      },
+      {
+         "text": "Messages between objects consist of three parts.",
+         "responses": [
+            {
+               "text": "Object, time, parameters"
+            },
+            {
+               "text": "Time, parameters, method selector"
+            },
+            {
+               "text": "Object, method selector, parameters",
+               "correct": true
+            },
+            {
+               "text": "Object, method selector, time"
+            }
+         ]
+      },
+      {
+         "text": "Dissociations are the most common type of relationship between classes.",
+         "responses": [
+            {
+               "text": "False",
+               "correct": true
+            },
+            {
+               "text": "True"
+            }
+         ]
+      },
+      {
+         "text": "______ is the relationship between a class (super class) and one or more refined versions of that same class (subclass).",
+         "responses": [
+            {
+               "text": "Polymorphism"
+            },
+            {
+               "text": "Inheritance",
+               "correct": true
+            },
+            {
+               "text": "Encapsulation"
+            }
+         ]
+      },
+      {
+         "text": "OO Languages can be loosely divided into two camps: Duck-typed and Statically-typed.",
+         "responses": [
+            {
+               "text": "True",
+               "correct": true
+            },
+            {
+               "text": "False"
+            }
+         ]
+      }
+   ]
+}
